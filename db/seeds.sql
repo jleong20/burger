@@ -1,6 +1,6 @@
-INSERT INTO burgers (name) VALUES ('Meeses');
-INSERT INTO burgers (name) VALUES ('Bobbi');
-INSERT INTO burgers (name, devoured) VALUES ('Sylvester', true);
-INSERT INTO burgers (name, devoured) VALUES ('Marilyn Manson', true);
-INSERT INTO burgers (name, devoured) VALUES ('Joe Biden', true);
-INSERT INTO burgers (name) VALUES ('Owens');
+INSERT INTO burgers (name) VALUES ('Big Mac');
+INSERT INTO burgers (name) VALUES ('Whopper');
+INSERT INTO burgers (name, devoured) VALUES ('Big Mac Jr', true);
+INSERT INTO burgers (name, devoured) VALUES ('Whopper Jr', true);
+INSERT INTO burgers (name, devoured) VALUES ('Shack Burger', true);
+INSERT INTO burgers (name) VALUES ('McChicken');
